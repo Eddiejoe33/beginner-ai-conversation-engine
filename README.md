@@ -9,7 +9,19 @@ A beginner-friendly AI conversation engine inspired by Retell AI, capable of han
 A beginner-friendly AI conversation engine inspired by Retell AI...
 This is a simple, beginner-friendly AI conversation engine inspired by Retell AI.
 >>>>>>> 22b286a (Add demo screenshot to README)
+... (your existing README content) ...
 
+---
+
+## 📬 Contact Me
+
+I’m always open to new projects, collaborations, and opportunities! You can reach me through any of the following channels:
+
+- **Email:** [Joeledward949@gmail.com](mailto:Joeledward949@gmail.com)  
+- **Website / Portfolio:** [Elegant View](https://www.elegantview.wordpress.com)
+
+I specialize in AI automation, web development, and custom software solutions.  
+Feel free to get in touch — I usually respond within 24 hours!
 ## Features
 - Simple keyword-based intent recognition
 - Handles greetings and appointment requests
