@@ -1,0 +1,5 @@
+[
+  {"user": "Hello", "agent": "Hello! How can I help you today?"},
+  {"user": "I want to book an appointment", "agent": "Sure! I can help you schedule an appointment."},
+  {"user": "Something else", "agent": "I didn’t understand that. Can you please rephrase?"}
+]
