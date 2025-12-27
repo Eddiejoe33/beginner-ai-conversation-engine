@@ -1,8 +1,14 @@
 # Beginner AI Conversation Engine
+# Beginner AI Conversation Engine
 
 ![Demo Screenshot](demo_screenshot.png)
 
+<<<<<<< HEAD
 A beginner-friendly AI conversation engine inspired by Retell AI, capable of handling greetings, appointment requests, and fallback responses. This project demonstrates a simple yet professional conversational flow with automated demo scripts.
+
+A beginner-friendly AI conversation engine inspired by Retell AI...
+This is a simple, beginner-friendly AI conversation engine inspired by Retell AI.
+>>>>>>> 22b286a (Add demo screenshot to README)
 
 ## Features
 - Simple keyword-based intent recognition
