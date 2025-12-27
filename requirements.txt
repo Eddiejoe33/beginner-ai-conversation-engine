@@ -1,1 +1,2 @@
-
+# Minimal dependencies for beginner-friendly AI agent
+openai
