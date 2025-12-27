@@ -1,0 +1,21 @@
+=== Professional Demo Conversation ===
+
+You: Hello
+Agent: Hello! How can I help you today?
+
+You: Good morning
+Agent: Hello! How can I help you today?
+
+You: I want to book an appointment
+Agent: Sure! I can help you schedule an appointment.
+
+You: Can you schedule it for tomorrow?
+Agent: Sure! I can help you schedule an appointment.
+
+You: Random text that doesn't match any intent
+Agent: I didn’t understand that. Can you please rephrase?
+
+You: Goodbye
+Agent: I didn’t understand that. Can you please rephrase?
+
+=== Demo Complete! ===
